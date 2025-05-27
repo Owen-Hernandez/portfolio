@@ -128,8 +128,8 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hola a todos! Mi nombre es Owen Hernandez. Soy desarrollador junior con conocimiento en multiples tecnologias. I
-            Y con ambicion para seguir aprendiendo. Tengo un año de experiencia trabajando como programador.
+            &nbsp; &nbsp; &nbsp; Hola a todos! Mi nombre es Owen Hernandez. Soy desarrollador junior con conocimiento en multiples tecnologias.
+            Con ambicion para seguir aprendiendo. Tengo un año de experiencia trabajando como programador.
             En mi opinion, la programacion no es solo un trabajo,
           sino también un arte con valor estético y funcional.
           </p>
