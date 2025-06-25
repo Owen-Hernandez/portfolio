@@ -72,3 +72,8 @@ Portfolio.vue → Ruta /portfolio
 Blog.vue → Ruta /blog
 
 Estas vistas son archivos .vue completos que definen lo que se muestra cuando se visita cada sección del sitio.
+
+
+PARA AGREGAR IMAGENES EN EL APARTADO DE PORTOFLIO SE DEBE COPIAR LAS IMAGENES A LAS 2 RUTAS:
+C:\Users\OWEN\Desktop\portfolio\public\img
+C:\Users\OWEN\Desktop\portfolio\dist\img

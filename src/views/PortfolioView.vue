@@ -13,17 +13,18 @@ export default {
           github: 'https://github.com/Owen-Hernandez/portfolio',
           //demo: 'https://bagasrakha.netlify.app/'
         },
-        // ACA EMPIEZAN LOS COMENTARIOS PARA QUE NO SE REFLEJEN LOS ID 2 AL 5
-        /*
+        
         {
           id: 2,
-          name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          name: 'Task Manager',
+          imageUrl: 'portfolio_v3',
+          status: 'Task Manager o gestor tareas simple con prioridades y fechas limite, con login y register conectado a una base de datos SQL.',
+          tech: 'PHP, CSS,JAVASCRIPT,BOOSTRAP,SQL',
+          github: 'https://github.com/Owen-Hernandez/task_manager',
+          //demo: 'https://sahabat-muslim.netlify.app/'
         },
+        // ACA EMPIEZAN LOS COMENTARIOS PARA QUE NO SE REFLEJEN LOS ID 2 AL 5
+        /*
         {
           id: 3,
           name: 'SISTEKDES',
