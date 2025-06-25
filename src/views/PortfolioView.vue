@@ -16,7 +16,7 @@ export default {
         
         {
           id: 2,
-          name: 'Task Manager',
+          name: 'Task-Manager',
           imageUrl: 'portfolio_v3',
           status: 'Task Manager o gestor tareas simple con prioridades y fechas limite, con login y register conectado a una base de datos SQL.',
           tech: 'PHP, CSS,JAVASCRIPT,BOOSTRAP,SQL',
